@@ -1,0 +1,24 @@
+{
+  "jio": [
+    {"plan_name": "JIO VALUE 1GB", "price": 209, "validity_days": 28, "data_per_day_gb": 1.0, "unlimited_5g": false},
+    {"plan_name": "JIO STANDARD 1.5GB", "price": 299, "validity_days": 28, "data_per_day_gb": 1.5, "unlimited_5g": false},
+    {"plan_name": "JIO HEAVY 2GB", "price": 349, "validity_days": 28, "data_per_day_gb": 2.0, "unlimited_5g": true},
+    {"plan_name": "JIO SUPER 3GB", "price": 449, "validity_days": 28, "data_per_day_gb": 3.0, "unlimited_5g": true},
+    {"plan_name": "JIO QUARTERLY SAVING", "price": 749, "validity_days": 84, "data_per_day_gb": 1.5, "unlimited_5g": false},
+    {"plan_name": "JIO ULTIMATE 84D", "price": 859, "validity_days": 84, "data_per_day_gb": 2.0, "unlimited_5g": true}
+  ],
+  "airtel": [
+    {"plan_name": "AIRTEL SMART 1GB", "price": 265, "validity_days": 28, "data_per_day_gb": 1.0, "unlimited_5g": false},
+    {"plan_name": "AIRTEL DAILY 1.5GB", "price": 329, "validity_days": 28, "data_per_day_gb": 1.5, "unlimited_5g": false},
+    {"plan_name": "AIRTEL TURBO 2GB", "price": 379, "validity_days": 28, "data_per_day_gb": 2.0, "unlimited_5g": true},
+    {"plan_name": "AIRTEL MEGA 3GB", "price": 499, "validity_days": 28, "data_per_day_gb": 3.0, "unlimited_5g": true},
+    {"plan_name": "AIRTEL ECO 84D", "price": 859, "validity_days": 84, "data_per_day_gb": 1.5, "unlimited_5g": false},
+    {"plan_name": "AIRTEL PRO 84D", "price": 979, "validity_days": 84, "data_per_day_gb": 2.0, "unlimited_5g": true}
+  ],
+  "vi": [
+    {"plan_name": "VI LITE 1GB", "price": 269, "validity_days": 28, "data_per_day_gb": 1.0, "unlimited_5g": false},
+    {"plan_name": "VI HERO 1.5GB", "price": 349, "validity_days": 28, "data_per_day_gb": 1.5, "unlimited_5g": false},
+    {"plan_name": "VI MAX 2GB", "price": 399, "validity_days": 28, "data_per_day_gb": 2.0, "unlimited_5g": false},
+    {"plan_name": "VI MEGA VALUE 84D", "price": 839, "validity_days": 84, "data_per_day_gb": 1.5, "unlimited_5g": false}
+  ]
+}
